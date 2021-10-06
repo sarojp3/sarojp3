@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology.
 
-- 🌱 I’m learning Machine Learning and Data Science along along with Full-Stack Development.
+- 🌱 I’m currently learning Full Stack Web Development(MERN). Also, I have sound knowledge on Machine Learning and Data Science.
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
-- 💬 Ask me about Web/Android, ML, Data Science and Deep Learning.
+- 💬 Ask me about Web, ML, Data Science.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
