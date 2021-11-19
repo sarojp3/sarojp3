@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology.
 
-- 🌱 I’m currently learning Full Stack Web Development(MERN). Also, I have sound knowledge on Machine Learning and Data Science.
+- 🌱 I’m currently learning ReactJS. Also, I have sound knowledge about Machine Learning and Data Science.
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
