@@ -17,14 +17,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
 <p align="center">
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"><br>
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px"><br>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sarojp3/sarojp3/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"><br>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" style="vertical-align:top; margin:4px"><br>
+ <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="	https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:4px">
 </p>
 
 
