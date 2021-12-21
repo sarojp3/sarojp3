@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology.
 
-- 🌱 I’m currently learning ReactJS. Also, I have sound knowledge about Machine Learning and Data Science.
+- 🌱 I’m currentlly working as a Big Data Trainee at ExtensoData. Also, I have sound knowledge about Machine Learning and Data Science.
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
