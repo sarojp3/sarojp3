@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology.
 
-- 🌱 I’m currently working as a Big Data Trainee at ExtensoData, F1Soft International Pvt. Ltd. 
+- 🌱 I’m currently working as a Data Trainee at ExtensoData, F1Soft International Pvt. Ltd. 
 
-- 📖 I have sound knowledge about Machine Learning and Data Science.
+- 📖 I have sound knowledge of Data Analysis and Machine Learning.
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
-- 💬 Ask me about Web, ML, Data Science.
+- 💬 Ask me about Data Science, Analysis, Web, and Machine Learning.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="center"><b>Languages and Tools</b></p> <br>
 
